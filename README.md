@@ -45,4 +45,4 @@ You can also create multl-line strings with triple single quotes.
 
 With all the examples I’ve gone over today, the one most used is to clear the REPL. On my linux machine, I use **Ctrl+L**. On my Mac, I can use both **Ctrl+L** and **Command+K** to clear the screen.
 
-You can read more blog posts [here](https://learningtowebdevblog.wordpress.com/2019/07/23/day-1-of-learning-python/)
+You can read more blog posts [here](https://learningtowebdevblog.wordpress.com/)
