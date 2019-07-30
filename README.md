@@ -28,11 +28,12 @@ How to comment in python:
 
 Add a hash before the line of code or as a trailing comment after a line of code, either in the REPL or in a script to comment it out.
 
+![alt text](https://github.com/angela-andrews/learn-python-day1/blob/master/images/repl.png "Start the REPL")
+
 **Strings:**
 
 Strings in Python can be created with either single or double quotes.
 
-Insert image here
 
 ```
 >>>'This is a string'
@@ -40,4 +41,8 @@ Insert image here
 ```
 You can also create multl-line strings with triple single quotes.
 
+![alt text](https://github.com/angela-andrews/learn-python-day1/blob/master/images/multiline-string.png "Code example of multi-line string")
+
 With all the examples I’ve gone over today, the one most used is to clear the REPL. On my linux machine, I use **Ctrl+L**. On my Mac, I can use both **Ctrl+L** and **Command+K** to clear the screen.
+
+You can read more blog posts [here](https://learningtowebdevblog.wordpress.com/2019/07/23/day-1-of-learning-python/)
