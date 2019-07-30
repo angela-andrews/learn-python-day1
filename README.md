@@ -32,6 +32,7 @@ Add a hash before the line of code or as a trailing comment after a line of code
 
 Strings in Python can be created with either single or double quotes.
 
+Insert image here
 
 ```
 >>>'This is a string'
